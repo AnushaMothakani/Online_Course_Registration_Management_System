@@ -1,7 +1,7 @@
 # Online_Course_Registration_Management_System
 
 ## Project Overview
-This project is a simple Course Management System developed using MySQL. It demonstrates database design, table creation, relationships, constraints, and data management operations.
+This project is a simple Online Course Registration Management System developed using MySQL. It demonstrates database design, table creation, relationships, constraints, and data management operations.
 
 ## Features
 - Course information management
